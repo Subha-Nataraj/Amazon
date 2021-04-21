@@ -1,0 +1,9 @@
+ObjectPage\Adactinloginpage_object.class
+StepPage\price_step.class
+StepPage\customerdetails_step.class
+ObjectPage\customerdetails_object.class
+ObjectPage\price_object.class
+StepPage\searchinghotelroom_step.class
+StepPage\Adactinloginpage_steps.class
+BasePage\BaseClass.class
+ObjectPage\searchinghotelroom_object.class
